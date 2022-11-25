@@ -239,10 +239,10 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Gh05t666nero/Pr0xPr0x?label=kontribusi&style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/Gh05t666nero/Pr0xPr0x?style=for-the-badge
 [contributors-url]: https://github.com/Gh05t666nero/Pr0xPr0x/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[forks-shield]: https://img.shields.io/github/forks/Gh05t666nero/Pr0xPr0x?style=for-the-badge
+[forks-url]: https://github.com/Gh05t666nero/Pr0xPr0x/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
